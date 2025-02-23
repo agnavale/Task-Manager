@@ -1,5 +1,5 @@
 Simple task manager in react <br>
-check out at: https://task-manager-08pw.onrender.com <br><br>
+Demo link: https://task-manager-08pw.onrender.com <br><br>
 
 Q. How long did you spend on the coding test? <br>
 A. I spent 3 days.<br><br>
